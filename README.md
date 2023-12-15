@@ -38,7 +38,3 @@ The code defines and trains a neural network model using TensorFlow and Keras. T
 
 
 
-For any questions or issues, please contact [your.email@example.com].
-
-**Note**: Replace placeholders like `[Your Name]` and `[your.email@example.com]` with your actual name and contact information. Also, consider adding more details, such as explanations for specific parameters, potential improvements, or additional functionalities.
-
